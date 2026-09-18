@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "repository": "https://github.com/jxlarrea/kiosk-satellite",
-  "revision": "5d72af70b78e27b28d8a6a7b8da82bdef3b010a6",
+  "revision": "d55349c08f8c4c245b607bcb7fcef5d8b20fb4b2",
   "workingTree": true,
   "files": {
     "about_identity_en.arb": "dd006567f69f846e2e3b73f09ad13784f0022d282ea3101fa9be7fc95175ec2d",
@@ -19,9 +19,9 @@
     "esphome_entity_picker_en.arb": "43f71f000a352dac8890878ad4f92051b8982f7cb87e404cc133b4d9278ab676",
     "file_manager_en.arb": "1d8db3a5e6bd21f7348d53ddba807c4e35f7c2656ba79e669db4fcd17a8bdf24",
     "fleet_general_en.arb": "81eedc53b95a855c10d7874fb4c809d08ae5ef0692d011400fa547f841d3a82b",
-    "fleet_invitations_en.arb": "00d49b60c572ba929582aaec17f38e2c4dc4c52b29e5fe3fe6855306434bff47",
+    "fleet_invitations_en.arb": "25b8e70be2406987a42689bf72baa30573af503f76429eb2981186ed913a75ea",
     "fleet_profiles_en.arb": "e9487e27a346f21492ab6a0a6224cf251758965dbfb30bb5a5a8faef94bc3605",
-    "fleet_status_en.arb": "6136e13d35c8fdbb334e125a9db4cc84202282cbf8e62d6ce6f8070fd766b9db",
+    "fleet_status_en.arb": "a5036bc960e95d661fe0dc330704cc7d335fefa24960810c16e6b7128d9b4e04",
     "fleet_switcher_en.arb": "5991593bdda40d6869f6e2c3402a626b4b2ed8846c3c74135a0b7608cdd374d0",
     "fleet_sync_selection_en.arb": "4814e772582a33cdc1b62abd21f60930f238a9b1f11ff1d5963bc18d61468941",
     "fleet_updates_en.arb": "3b5463bf3e7e96ff4554b313bcfdf836e38df61b1a0a848dc8d386a55615c954",
@@ -70,7 +70,7 @@
     "settings_camera_permissions_en.arb": "af1f4abccaf91497313d69f836cf52fad5396437ee97554c472c4949e7462cbb",
     "settings_camera_snapshot_en.arb": "df01d8263c7598d75619263228b9259db6823d2d0f744bc1c392bdbc32b2972e",
     "settings_camera_status_en.arb": "a82c1661ece636cba1c7bfe091e73627932b2005ce1fd3401097441a88fdb6ef",
-    "settings_camera_streaming_en.arb": "b852584d882c29da93f0a7a4e255f95d25070ea9988915e8789b37bb1a397e47",
+    "settings_camera_streaming_en.arb": "abb78a28b6b6e88b205b4a2a498aa2a7a3f01e74570340d1439456a53ebc3e41",
     "settings_camera_streams_errors_en.arb": "6d5c95e55b74e9e05a4a5510859926dfa3197b9c433d1cd623d1d681dd06b680",
     "settings_camera_streams_imports_en.arb": "cc2d60fc2fc24843121590e1a38a99f24c5f62c8cadb8328a9d4943243df8520",
     "settings_camera_streams_playback_en.arb": "e97207dbcc80942f39836b6e2a2d9f57e1dd93f1a5d59d8ddacfd3c7f26b239c",
@@ -182,7 +182,8 @@
     "setup_service_en.arb": "8fb1b7c4046403a50155a845faa690ae8d54ca8625250da24223fd52168cdf39",
     "setup_voice_satellite_en.arb": "bad0ef351bb9e464bda0f6307e8d6cad63a827efb24bcf4c2dbf3d32457e327c",
     "setup_welcome_en.arb": "a26a34d1e8f30df984627884b880f4fda8f410e1ad3a21a9b3399499c4d7be50",
-    "sound_picker_en.arb": "3287a30c9f51f864354862d1208ec5b79e87026b6a5521939f71c944b02bb626"
+    "sound_picker_en.arb": "3287a30c9f51f864354862d1208ec5b79e87026b6a5521939f71c944b02bb626",
+    "voice_timers_en.arb": "fa73895ba659a16453e17103ea93e933b025fe296cff067a6191e0a7b52ebab4"
   },
   "scope": "setup-settings-navigation-and-device-drawer"
 }

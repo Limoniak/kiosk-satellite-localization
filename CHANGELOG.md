@@ -4,6 +4,12 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add English and Spanish text for floating Voice Satellite timers, pause and resume gestures, cancellation, saved positioning and local timer alerts (#612).
+
+- Add English and Spanish text for camera date and time overlays and their optional black background (#609).
+
+- Add English and Spanish text for inviting fleet members by IP address and remote admin port, including lookup validation and the invitation flow.
+
 - Add font compatibility guidance and PR rendering status fields. New languages need a rendering review before shipping. Contributors can suggest fonts for maintainer integration under their own licenses. Untested translations and small corrections remain welcome.
 
 - Update English and Spanish fleet and intercom guidance to include saved members. Add the saved-address mismatch error and use discovery-neutral empty-list labels.
